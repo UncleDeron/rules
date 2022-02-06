@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,video.qq.com
 DOMAIN,360buyimg.com
+# >> yonyou
+DOMAIN-SUFFIX,yonyoucloud.com
+DOMAIN-SUFFIX,diwork.com
