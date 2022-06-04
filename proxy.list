@@ -20,6 +20,8 @@ DOMAIN,alt5-mtalk.google.com
 DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
+
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN,chderon.ddns.net
-DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.com // Jetbrains
+DOMAIN,cdn.jsdelivr.net // jsdelivr CDN
