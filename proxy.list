@@ -23,11 +23,9 @@ DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
 
 DOMAIN-SUFFIX,hostloc.com
-DOMAIN-SUFFIX,jetbrains.com // Jetbrains
 DOMAIN,cdn.jsdelivr.net // jsdelivr CDN
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,yppan.com
 DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,emby.wtf
